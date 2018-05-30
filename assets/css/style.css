@@ -1,0 +1,38 @@
+.col-1 {
+    border: 10px solid white;
+    height: 90px;
+    background: yellow;
+}
+
+.col-2 {
+    background: #68e74f;
+    border: 10px solid white;
+    height: 90px;
+}
+
+.col-3 {
+    background: #84dbb3;
+    border: 10px solid white;
+    height: 90px;
+}
+
+.col-4 {
+    background: #4799cf;
+    border: 10px solid white;
+    height: 90px;
+}
+
+.col-6 {
+    background: hsl(315, 69%, 59%);
+    border: 10px solid white;
+    height: 90px;
+}
+
+.col-12 {
+    background: #4d054d;
+    border: 10px solid white;
+    height: 90px;
+}
+
+
+
